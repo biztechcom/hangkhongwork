@@ -1,0 +1,42 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 16 Aug 2024 00:17:15 at https://themesflat.co/html/jobtex/home-09.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themesflat.co/html/jobtex/home-09.html -O1 "C:\project\HangkhongWork" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:17:17	Error: 	"Internal Server Error" (500) after 2 retries at link https://themesflat.co/robots.txt (from primary/primary)
+00:21:02	Warning: 	Retry after error 500 (Internal Server Error) at link https://themesflat.co/html/jobtex/job-single.html (from https://themesflat.co/html/jobtex/home-09.html)
+00:21:02	Warning: 	Retry after error 500 (Internal Server Error) at link https://themesflat.co/html/jobtex/dashboard.html (from https://themesflat.co/html/jobtex/home-09.html)
+00:21:10	Warning: 	Retry after error 500 (Internal Server Error) at link https://themesflat.co/html/jobtex/stylesheets/images/resource/company-logo/3-1.png (from https://themesflat.co/html/jobtex/stylesheets/shortcodes.css)
+00:21:25	Warning: 	Retry after error 500 (Internal Server Error) at link https://themesflat.co/html/jobtex/home-01.htm (from https://themesflat.co/html/jobtex/home-10.html)
+00:21:25	Warning: 	Retry after error 500 (Internal Server Error) at link https://themesflat.co/html/jobtex/$ (from https://themesflat.co/html/jobtex/jobs-single.html)
+00:21:25	Warning: 	Retry after error 500 (Internal Server Error) at link https://themesflat.co/html/jobtex/stylesheets/jobs.css (from https://themesflat.co/html/jobtex/employers_grid.html)
+00:21:25	Warning: 	Retry after error 500 (Internal Server Error) at link https://themesflat.co/html/jobtex/javascript/range-side.js (from https://themesflat.co/html/jobtex/employers_grid.html)
+00:21:25	Warning: 	Retry after error 500 (Internal Server Error) at link https://themesflat.co/html/jobtex/dashboard/term-of-use.html (from https://themesflat.co/html/jobtex/dashboard/employer-dashboard.html)
+00:21:27	Warning: 	Retry after error 500 () at link https://themesflat.co/html/jobtex/job-single.html (from https://themesflat.co/html/jobtex/home-09.html)
+00:21:27	Warning: 	Retry after error 500 (Internal Server Error) at link https://themesflat.co/html/jobtex/dashboard.html (from https://themesflat.co/html/jobtex/home-09.html)
+00:21:27	Warning: 	Retry after error 500 () at link https://themesflat.co/html/jobtex/stylesheets/images/resource/company-logo/3-1.png (from https://themesflat.co/html/jobtex/stylesheets/shortcodes.css)
+00:21:27	Warning: 	Retry after error 500 (Internal Server Error) at link https://themesflat.co/html/jobtex/dashboard/home-01.html (from https://themesflat.co/html/jobtex/dashboard/candidates-delete-profile.html)
+00:21:27	Warning: 	Retry after error 500 (Internal Server Error) at link https://themesflat.co/html/jobtex/dashboard/images/logo.png (from https://themesflat.co/html/jobtex/dashboard/candidates-delete-profile.html)
+00:21:27	Warning: 	Retry after error 500 () at link https://themesflat.co/html/jobtex/home-01.htm (from https://themesflat.co/html/jobtex/home-10.html)
+00:21:27	Warning: 	Retry after error 500 () at link https://themesflat.co/html/jobtex/$ (from https://themesflat.co/html/jobtex/jobs-single.html)
+00:21:27	Warning: 	Retry after error 500 () at link https://themesflat.co/html/jobtex/stylesheets/jobs.css (from https://themesflat.co/html/jobtex/employers_grid.html)
+00:21:27	Warning: 	Retry after error 500 () at link https://themesflat.co/html/jobtex/javascript/range-side.js (from https://themesflat.co/html/jobtex/employers_grid.html)
+00:21:27	Warning: 	Retry after error 500 (Internal Server Error) at link https://themesflat.co/html/jobtex/dashboard/term-of-use.html (from https://themesflat.co/html/jobtex/dashboard/employer-dashboard.html)
+00:21:27	Error: 	"" (500) after 2 retries at link https://themesflat.co/html/jobtex/job-single.html (from https://themesflat.co/html/jobtex/home-09.html)
+00:21:28	Error: 	"Internal Server Error" (500) after 2 retries at link https://themesflat.co/html/jobtex/dashboard.html (from https://themesflat.co/html/jobtex/home-09.html)
+00:21:28	Error: 	"" (500) after 2 retries at link https://themesflat.co/html/jobtex/stylesheets/images/resource/company-logo/3-1.png (from https://themesflat.co/html/jobtex/stylesheets/shortcodes.css)
+00:21:28	Warning: 	Retry after error 500 (Internal Server Error) at link https://themesflat.co/html/jobtex/dashboard/home-01.html (from https://themesflat.co/html/jobtex/dashboard/candidates-delete-profile.html)
+00:21:28	Warning: 	Retry after error 500 () at link https://themesflat.co/html/jobtex/dashboard/images/logo.png (from https://themesflat.co/html/jobtex/dashboard/candidates-delete-profile.html)
+00:21:28	Error: 	"" (500) after 2 retries at link https://themesflat.co/html/jobtex/home-01.htm (from https://themesflat.co/html/jobtex/home-10.html)
+00:21:28	Error: 	"" (500) after 2 retries at link https://themesflat.co/html/jobtex/$ (from https://themesflat.co/html/jobtex/jobs-single.html)
+00:21:28	Error: 	"" (500) after 2 retries at link https://themesflat.co/html/jobtex/stylesheets/jobs.css (from https://themesflat.co/html/jobtex/employers_grid.html)
+00:21:28	Error: 	"" (500) after 2 retries at link https://themesflat.co/html/jobtex/javascript/range-side.js (from https://themesflat.co/html/jobtex/employers_grid.html)
+00:21:29	Error: 	"Internal Server Error" (500) after 2 retries at link https://themesflat.co/html/jobtex/dashboard/term-of-use.html (from https://themesflat.co/html/jobtex/dashboard/employer-dashboard.html)
+00:21:29	Error: 	"Internal Server Error" (500) after 2 retries at link https://themesflat.co/html/jobtex/dashboard/home-01.html (from https://themesflat.co/html/jobtex/dashboard/candidates-delete-profile.html)
+00:21:29	Error: 	"" (500) after 2 retries at link https://themesflat.co/html/jobtex/dashboard/images/logo.png (from https://themesflat.co/html/jobtex/dashboard/candidates-delete-profile.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 14 seconds : 395 links scanned, 364 files written (22472706 bytes overall) [14465136 bytes received at 56949 bytes/sec], 8978210 bytes transferred using HTTP compression in 108 files, ratio 9%, 2.6 requests per connection
+(11 errors, 20 warnings, 0 messages)
